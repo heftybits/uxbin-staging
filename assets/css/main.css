@@ -4781,7 +4781,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   border-top-right-radius: 12px;
   border-bottom-right-radius: 12px;
   height: 700px;
-  object-fit: cover;
+  object-fit: none;
 }
 .banner_about_two .parallax_cover::before {
   content: "";
