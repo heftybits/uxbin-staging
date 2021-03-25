@@ -254,6 +254,20 @@ body.modal-open {
   margin-left: -1px;
 }
 
+.buy-btn {
+  color: #ffffff;
+  display: inline-block;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 24px;
+  padding-right: 24px;
+  transition: 0.3s !important;
+}
+
+.buy-btn:hover {
+  color: #E8EDFF;
+}
+
 /*-----------------------------
   page dark
 -----------------------------*/
@@ -394,6 +408,7 @@ img {
 .title_sections_inner .btn {
   margin-top: 1.25rem;
 }
+
 @media (max-width: 991px) {
   .title_sections_inner {
     margin-bottom: 2.5rem;
@@ -17727,6 +17742,19 @@ html:not(.no-js) [data-aos="fade-up"] {
   -ms-transition: 0.3s !important;
   transition: 0.3s !important;
 }
+
+.buy_btn_sm_primary {
+  padding: 0;
+  font-size: 15px;
+  text-align: center;
+  -webkit-transition: 0.3s !important;
+  -moz-transition: 0.3s !important;
+  -o-transition: 0.3s !important;
+  -ms-transition: 0.3s !important;
+  transition: 0.3s !important;
+}
+
+
 .btn_sm_primary:hover {
   opacity: 0.9;
 }
