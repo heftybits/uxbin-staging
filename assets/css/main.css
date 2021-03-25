@@ -6496,7 +6496,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   serv_soft
 -----------------------------*/
 .serv_soft .item__nature {
-  padding: 0 15px 0 15px !important;
+  padding: 50px 15px 0 15px !important;
 }
 .serv_soft .item__nature .icon--top {
   background-color: transparent !important;
