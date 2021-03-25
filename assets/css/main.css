@@ -237,6 +237,7 @@ body.modal-open {
 
 .call-img-fix {
   width: 425px;
+  height: 425px;
 }
 
 @media
@@ -244,7 +245,7 @@ body.modal-open {
   only screen and (min-device-pixel-ratio : 2) {
 
     .call-img-fix {
-       -webkit-backgorund-size: 425px 425px;
+       -webkit-background-size: 425px 425px;
     }
   }
 
