@@ -239,6 +239,15 @@ body.modal-open {
   width: 425px;
 }
 
+@media
+  only screen and (-webkit-min-device-pixel-ratio : 2),
+  only screen and (min-device-pixel-ratio : 2) {
+
+    .call-img-fix {
+       -webkit-backgorund-size: 425px 425px;
+    }
+  }
+
 .twitter-footer {
   width: 32px;
   margin-top: 4px;
