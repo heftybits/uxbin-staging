@@ -18147,11 +18147,11 @@ html:not(.no-js) [data-aos="fade-up"] {
   justify-content: center;
 }
 .button--click .btn-token.c-gradient {
-  -webkit-background: linear-gradient(90deg, #6bb0f8 0%, #fd4ffe 100%) !important;
-  -moz-background: linear-gradient(90deg, #6bb0f8 0%, #fd4ffe 100%) !important;
-  -o-background: linear-gradient(90deg, #6bb0f8 0%, #fd4ffe 100%) !important;
-  -ms-background: linear-gradient(90deg, #6bb0f8 0%, #fd4ffe 100%) !important;
-  background: linear-gradient(90deg, #6bb0f8 0%, #fd4ffe 100%) !important;
+  -webkit-background: linear-gradient(90deg, #4168FF 0%, #fd4ffe 100%) !important;
+  -moz-background: linear-gradient(90deg, #4168FF 0%, #fd4ffe 100%) !important;
+  -o-background: linear-gradient(90deg, #4168FF 0%, #fd4ffe 100%) !important;
+  -ms-background: linear-gradient(90deg, #4168FF 0%, #fd4ffe 100%) !important;
+  background: linear-gradient(90deg, #4168FF 0%, #fd4ffe 100%) !important;
 }
 .button--click .btn-token.defalult {
   border: 1px solid rgba(255, 255, 255, 0.4);
