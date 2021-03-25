@@ -1302,6 +1302,12 @@ img {
   }
 }
 
+@media (max-width: 500px) {
+  .padding-t-12 {
+    padding-top: 3.225rem !important;
+  }
+}
+
 .padding-t-13 {
   padding-top: 8.125rem !important;
 }
