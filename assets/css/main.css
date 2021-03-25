@@ -4443,6 +4443,13 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
     background-size: cover;
   }
 }
+
+@media (max-width: 1150px) {
+  .demo__software::before {
+    background-size: cover;
+    width: 120%;
+  }
+}
 .demo__software .banner_title .offer {
   padding: 0.25rem 0rem;
   border-radius: 6px;
