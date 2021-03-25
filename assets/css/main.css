@@ -171,10 +171,10 @@ body.modal-open {
   padding-left: 20px;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 500px) {
   .mobile-banner-fix {
-    padding-left: 24px;
-    padding-right: 24px;
+    padding-left: 8px;
+    padding-right: 8px;
   }
 }
 
@@ -8567,7 +8567,7 @@ software_web
 @media (max-width: 500px) {
   .software_web .screen__ipad {
     margin-right: 0;
-    height: 200px;
+    height: 280px;
   }
 }
 
