@@ -261,11 +261,11 @@ body.modal-open {
   padding-bottom: 12px;
   padding-left: 24px;
   padding-right: 24px;
-  transition: 0.3s !important;
+  transition: 0.4s !important;
 }
 
 .buy-btn:hover {
-  color: #E8EDFF;
+  color: #D9E3FD;
 }
 
 /*-----------------------------
