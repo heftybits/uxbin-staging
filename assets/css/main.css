@@ -9104,7 +9104,7 @@ software_web
 }
 .pricing_demo3 .blocks_pricing .btn {
   border-radius: 12px;
-  padding: 0.8rem 1.9rem !important;
+  background-color: #191A24;
 }
 
 /*-----------------------------
@@ -18183,6 +18183,14 @@ html:not(.no-js) [data-aos="fade-up"] {
 }
 .button--click .btn-token.defalult {
   border: 1px solid rgba(255, 255, 255, 0.4);
+}
+
+.buy-team-btn {
+  -webkit-background: linear-gradient(90deg, #4168FF 0%, #fd4ffe 100%) !important;
+  -moz-background: linear-gradient(90deg, #4168FF 0%, #fd4ffe 100%) !important;
+  -o-background: linear-gradient(90deg, #4168FF 0%, #fd4ffe 100%) !important;
+  -ms-background: linear-gradient(90deg, #4168FF 0%, #fd4ffe 100%) !important;
+  background: linear-gradient(90deg, #4168FF 0%, #fd4ffe 100%) !important;
 }
 
 /*-----------------------------
