@@ -256,6 +256,10 @@ body.modal-open {
   font-size: .9em;
 }
 
+.faq-lh-fix {
+line-height: 18px;
+}
+
 @media
   only screen and (-webkit-min-device-pixel-ratio : 2),
   only screen and (min-device-pixel-ratio : 2) {
