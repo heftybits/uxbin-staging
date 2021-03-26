@@ -239,6 +239,17 @@ body.modal-open {
   height: 425px;
 }
 
+.comp-ico-size {
+  height: 14px;
+  margin-left: 32px;
+  margin-right: 2px;
+}
+
+.comp-color-p {
+  color: #815FFF;
+  font-size: .9em;
+}
+
 @media
   only screen and (-webkit-min-device-pixel-ratio : 2),
   only screen and (min-device-pixel-ratio : 2) {
@@ -8986,6 +8997,16 @@ software_web
   font-weight: 4000;
   padding: 0.75 1.25rem;
 }
+
+.software_web .kit-list-price .list-group .comp-list-group-item {
+  border: 0;
+  font-size: 16px;
+  font-weight: 4000;
+  padding: 0.45 1rem;
+  list-style: none;
+  padding-bottom: 8px;
+}
+
 .pricing_section .blocks_pricing .item__price .feature_price .list-group .list-group-item .tio {
   vertical-align: text-top;
   color: #17e79b;
