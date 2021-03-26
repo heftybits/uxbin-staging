@@ -1,0 +1,5 @@
+# Redirects from what the browser requests to what we serve
+
+/privacy.html  /privacy
+/404.html      /oops
+/license.html  /license
