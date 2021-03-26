@@ -7619,7 +7619,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   position: absolute;
   width: 520px;
   height: 740px;
-  top: -100px;
+  top: -50px;
   left: 0;
   background: linear-gradient(rgba(34, 2, 95, 0.05), rgba(34, 2, 95, 0));
 }
