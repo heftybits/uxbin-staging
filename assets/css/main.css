@@ -245,6 +245,12 @@ body.modal-open {
   margin-right: 2px;
 }
 
+.lib-ico-size {
+  height: 20px;
+  margin-left: 32px;
+  margin-right: 4px;
+}
+
 .comp-color-p {
   color: #815FFF;
   font-size: .9em;
