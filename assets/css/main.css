@@ -4466,7 +4466,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
 }
 .demo__software::before {
   content: "";
-  background-image: url("../img/software/bg-soft.png");
+  background-image: url("../img/software/bg-soft.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
   position: absolute;
