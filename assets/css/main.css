@@ -265,6 +265,10 @@ line-height: 18px;
   padding-top: 16px;
 }
 
+.simple-green-txt {
+  color: #58f188;
+}
+
 @media
   only screen and (-webkit-min-device-pixel-ratio : 2),
   only screen and (min-device-pixel-ratio : 2) {
