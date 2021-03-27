@@ -260,6 +260,11 @@ body.modal-open {
 line-height: 18px;
 }
 
+.sub-success {
+  color: #00C500;
+  padding-top: 16px;
+}
+
 @media
   only screen and (-webkit-min-device-pixel-ratio : 2),
   only screen and (min-device-pixel-ratio : 2) {
