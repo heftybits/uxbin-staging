@@ -269,6 +269,11 @@ line-height: 18px;
   color: #58f188;
 }
 
+.buy-btn-mobile-fix {
+margin-left: 30px;
+margin-right: 30px;
+}
+
 @media
   only screen and (-webkit-min-device-pixel-ratio : 2),
   only screen and (min-device-pixel-ratio : 2) {
